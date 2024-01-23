@@ -36,22 +36,44 @@ name = "Dan"
 //Expense
 //Cost of goods
 
-const costofsock = 50
-const costofbag = 50
 
-const costofbatch = (costofsock * 3)
-const sellingprice = 1000
-const revenue = (sellingprice * 30) * 70/100
 
-const costofsoldsocks = costofsock * 90
-const costofsoldbags =  costofsoldsocks * 30
 
-const profit = 1000 - (500 - 200)
 
-const numberofsocks = 100
-const remainingsocks = 10
+let length = prompt("Enter rectangle Length")
+ let  width = prompt("Enter rectangle width")
 
-console.log(profit)
+ parseFloat(length)
+parseFloat(width)
+
+let rectangle_Area = length * width
+let rectangle_perimeter = (length * 2) + (width * 2)
+
+
+
+console.log("Rectangle's perimeter is ", (rectangle_perimeter))
+console.log("Rectangle's area is" ,( rectangle_Area))
+console.log(typeof rectangle_perimeter);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
