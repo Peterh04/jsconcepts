@@ -55,15 +55,47 @@ console.log("Rectangle's perimeter is ", (rectangle_perimeter))
 console.log("Rectangle's area is" ,( rectangle_Area))
 console.log(typeof rectangle_perimeter);
 
+let school="zindua"
+
+if (school=== "zindua") {
+    console.log("zindua school")
+} else{
+    console.log("zindua not school")
+}
+
+/**
+ * @Logical_Operators
+ * @STRICTLYEQUAL ->==
+ * @AND -> &&
+ * @OR -> //
+ * @GREATERTHAN -> >
+ * @LESSTHAN -> <
+ * @GREATERTHANEQUAL -> >=
+ * @LESSTHANEQUAL -> <=
+ * @NOT -> !
+ * @NOTEQUAL -> !==
+ *
+ * 
+ * && all logic is true
+ * // one logic should be true
+ */
 
 
+// let name = 'Peter'
 
+// switch( name ) {
+//     case 'Peter' :
+//     console.log('I am Peter')
+// } case { 
+    
+// }
+//
 
+function consolelogHello (){
+    console.log('Hello world')
+}
 
-
-
-
-
+consolelogHello()
 
 
 
