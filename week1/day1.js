@@ -39,63 +39,63 @@ name = "Dan"
 
 
 
+// let length = prompt("Enter rectangle Length")
 
-let length = prompt("Enter rectangle Length")
- let  width = prompt("Enter rectangle width")
+//  let  width = prompt("Enter rectangle width")
 
- parseFloat(length)
-parseFloat(width)
+//  parseFloat(length)
+// parseFloat(width)
 
-let rectangle_Area = length * width
-let rectangle_perimeter = (length * 2) + (width * 2)
-
-
-
-console.log("Rectangle's perimeter is ", (rectangle_perimeter))
-console.log("Rectangle's area is" ,( rectangle_Area))
-console.log(typeof rectangle_perimeter);
-
-let school="zindua"
-
-if (school=== "zindua") {
-    console.log("zindua school")
-} else{
-    console.log("zindua not school")
-}
-
-/**
- * @Logical_Operators
- * @STRICTLYEQUAL ->==
- * @AND -> &&
- * @OR -> //
- * @GREATERTHAN -> >
- * @LESSTHAN -> <
- * @GREATERTHANEQUAL -> >=
- * @LESSTHANEQUAL -> <=
- * @NOT -> !
- * @NOTEQUAL -> !==
- *
- * 
- * && all logic is true
- * // one logic should be true
- */
+// let rectangle_Area = length * width
+// let rectangle_perimeter = (length * 2) + (width * 2)
 
 
-// let name = 'Peter'
 
-// switch( name ) {
-//     case 'Peter' :
-//     console.log('I am Peter')
-// } case { 
-    
+// console.log("Rectangle's perimeter is ", (rectangle_perimeter))
+// console.log("Rectangle's area is" ,( rectangle_Area))
+// console.log(typeof rectangle_perimeter);
+
+// let school="zindua"
+
+// if (school=== "zindua") {
+//     console.log("zindua school")
+// } else{
+//     console.log("zindua not school")
 // }
-//
 
-function consolelogHello (){
-    console.log('Hello world')
-}
+// /**
+//  * @Logical_Operators
+//  * @STRICTLYEQUAL ->==
+//  * @AND -> &&
+//  * @OR -> //
+//  * @GREATERTHAN -> >
+//  * @LESSTHAN -> <
+//  * @GREATERTHANEQUAL -> >=
+//  * @LESSTHANEQUAL -> <=
+//  * @NOT -> !
+//  * @NOTEQUAL -> !==
+//  *
+//  * 
+//  * && all logic is true
+//  * // one logic should be true
+//  */
 
-consolelogHello()
+
+// // let name = 'Peter'
+
+// // switch( name ) {
+// //     case 'Peter' :
+// //     console.log('I am Peter')
+// // } case { 
+    
+// // }
+// //
+
+// function consoleelogHello (){
+//     console.log('Hello world')
+// }
+
+// consolelogHello()
 
 
 
