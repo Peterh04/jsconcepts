@@ -52,14 +52,71 @@
 // console.log(groupBy.name())
 
 
-  const arrayObjects = [
+ 
+
+// let person = {
+// name : 'John',
+// age :30
+// school : 'Zindua school',
+// personalities : ['kind', 'humble', 'hardworking'],
+// stubborn : false,
+// hobbies : {
+//   indoor : ['reading', 'cooking'],
+//   outdoor : ['swimming', 'hicking']
+ let people = [
     {name : 'Alice', age : 25 ,city: 'New York'},
     {name : ' Bob', age : 30, city : 'Chicago'},
     {name : ' Cahrlie', age: 35 , city : 'New York'},
     {name : 'Dave', age: 40, city: 'Chicago'},
 ];
 
+function groupBy (arr, property) {
+let grouped = {}
+for (let i=0; i<people.length; i++){
+  let person= arr[i]
+  let key  = person[property]
+ 
+  if ( ! grouped[key] ) {
+   grouped[key] =[person]
+  } else {
+    grouped[key].push(person)
+  }
+}
+return grouped
+}
 
-const result = Object.groupBy(arrayObjects, ({age})  => age) 
-console.log(result)
+console.log(groupBy(people, 'age'))
+
+// sound : function () {
+
+//   return('I am a human being')
+  
+// }
+
+// }
+
+// console.log(person.name)
+// console.log(person.sound())
+// console.log(person.personalities[2])
+// console.log(person.hobbies.indoor[1])
+// console.log(person.hobbies.outdoor[1])
+// console.log(person)
+
+// console.log(Object.keys(person))
+// console.log(Object.values(person))
+
+// var x = prompt('where does the pope live?');
+
+// if (x=== "vatican") {
+//   alert('correct');
+
+// }
+//  else {
+ 
+//   (
+
+//   )
+
+//  }
+
 
