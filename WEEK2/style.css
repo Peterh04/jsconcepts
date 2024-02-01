@@ -1,0 +1,23 @@
+* body{
+    width:  100vh;
+    height:  100vh;
+
+
+}
+
+
+#heading{
+    color: red;
+}
+
+.change-my-color1{
+    background-color: red;
+}
+
+.change-my-color2 {
+    background-color: green;
+}
+
+.hidden{
+    display: none;
+}
