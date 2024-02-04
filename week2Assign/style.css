@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin:0;
+color: wh;
+  }
+  
+  .wrapper {
+    background: rgb(71, 43, 43);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 20px;
+  }
+  
+  button {
+    height: 150px;
+    width: 150px;
+    font-size: 80px;
+    border-radius: 10px;
+    background-color:rgb(225, 212, 188);
+    border-color: rgb(225, 212, 188);
+
+    
+    
+  }
+  
+  .rpsButton:hover{
+    cursor: pointer;
+    background-color: rgb(192, 190, 187);
+  }
+
+  .resultContainer {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+  #endGameButton{
+
+    height: 50px;
+    width: 150px;
+   font-size: 20px;
+   margin-bottom: 50px;
+    
+    border-radius: 10px;
+    background-color:rgb(225, 212, 188);
+    border-color: rgb(225, 212, 188);
+}
+  
+#endGameButton:hover{
+  cursor: pointer;
+    background-color: rgb(192, 190, 187);
+    
+}
