@@ -1,3 +1,7 @@
+// restful API - uses json
+// Graphsql API
+
+
 let container = document.querySelector('.container')
 let hold = document.querySelector('.hold')
 const fetchData = async() =>{
@@ -44,4 +48,25 @@ characters.forEach((character) => {
 
 }
 
-fetchData()
+// fetchData()
+
+// const fetchDataWaloba = async() =>{
+
+//     const responseWalobwa = await fetch ('https://api.walobwa.xyz/store/products')
+//     const dataWalobwa = await responseWalobwa.json()
+
+//     const info = dataWalobwa.products
+
+//     console.log(info)
+
+
+
+// }
+
+// fetchDataWaloba()
+
+
+
+
+
+

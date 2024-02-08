@@ -1,0 +1,432 @@
+{
+    "products": [
+        {
+            "id": "prod_01HJRK4E3VGYQEPGA8FK0RWZYR",
+            "title": "Hempseed Oil 120ML",
+            "subtitle": null,
+            "status": "published",
+            "external_id": null,
+            "description": "- Ideal for controlling hormonal acne as a moisturizer.\n- Best suited for dry acne-prone skin; is light and doesn’t clog pores.\n- Has anti-aging properties; helps clear fine lines and wrinkles.\n- Consumed orally, a teaspoon a day to address arthritis, hypertension, low CD4 count in HIV and in patients receiving chemotherapy",
+            "handle": "hempseed-oil-120ml",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://shethserver.s3.ap-southeast-2.amazonaws.com/HEMP-SEED-OIL-120ML-new-_1_-1703779906734.webp",
+            "collection_id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+            "type_id": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2023-12-28T16:11:47.690Z",
+            "updated_at": "2023-12-28T16:11:47.690Z",
+            "deleted_at": null,
+            "metadata": null,
+            "profile_id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+            "collection": {
+                "id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+                "created_at": "2023-12-26T05:36:51.665Z",
+                "updated_at": "2023-12-26T05:36:51.665Z",
+                "deleted_at": null,
+                "title": "Anti-aging-oils",
+                "handle": "anti-aging-oils",
+                "metadata": {}
+            },
+            "images": [
+                {
+                    "id": "img_01HJRK4E3QF5P5C0279VYYQ823",
+                    "created_at": "2023-12-28T16:11:47.690Z",
+                    "updated_at": "2023-12-28T16:11:47.690Z",
+                    "deleted_at": null,
+                    "url": "https://shethserver.s3.ap-southeast-2.amazonaws.com/HEMP-SEED-OIL-120ML-new-_1_-1703779903051.webp",
+                    "metadata": null
+                }
+            ],
+            "options": [
+                {
+                    "id": "opt_01HJRK4E431GHF1YXG73YF37W5",
+                    "created_at": "2023-12-28T16:11:47.690Z",
+                    "updated_at": "2023-12-28T16:11:47.690Z",
+                    "deleted_at": null,
+                    "title": "Volume",
+                    "product_id": "prod_01HJRK4E3VGYQEPGA8FK0RWZYR",
+                    "metadata": null,
+                    "values": [
+                        {
+                            "id": "optval_01HJRK4E4J3QBWW39X6DD952R5",
+                            "created_at": "2023-12-28T16:11:47.690Z",
+                            "updated_at": "2023-12-28T16:11:47.690Z",
+                            "deleted_at": null,
+                            "value": "120ml",
+                            "option_id": "opt_01HJRK4E431GHF1YXG73YF37W5",
+                            "variant_id": "variant_01HJRK4E4JKJ3TDZRP36K5Z0PT",
+                            "metadata": null
+                        }
+                    ]
+                }
+            ],
+            "profiles": [
+                {
+                    "id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+                    "created_at": "2023-12-24T13:04:47.600Z",
+                    "updated_at": "2023-12-24T13:04:47.600Z",
+                    "deleted_at": null,
+                    "name": "Default Shipping Profile",
+                    "type": "default",
+                    "metadata": null
+                }
+            ],
+            "tags": [],
+            "type": null,
+            "variants": [
+                {
+                    "id": "variant_01HJRK4E4JKJ3TDZRP36K5Z0PT",
+                    "created_at": "2023-12-28T16:11:47.690Z",
+                    "updated_at": "2024-01-27T08:12:45.247Z",
+                    "deleted_at": null,
+                    "title": "120ML",
+                    "product_id": "prod_01HJRK4E3VGYQEPGA8FK0RWZYR",
+                    "sku": null,
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "variant_rank": 0,
+                    "inventory_quantity": 1,
+                    "allow_backorder": false,
+                    "manage_inventory": true,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": {},
+                    "options": [
+                        {
+                            "id": "optval_01HJRK4E4J3QBWW39X6DD952R5",
+                            "created_at": "2023-12-28T16:11:47.690Z",
+                            "updated_at": "2023-12-28T16:11:47.690Z",
+                            "deleted_at": null,
+                            "value": "120ml",
+                            "option_id": "opt_01HJRK4E431GHF1YXG73YF37W5",
+                            "variant_id": "variant_01HJRK4E4JKJ3TDZRP36K5Z0PT",
+                            "metadata": null
+                        }
+                    ],
+                    "prices": [
+                        {
+                            "id": "ma_01HJRK7FYXDJ4Z39P99ZKB4XY5",
+                            "created_at": "2023-12-28T16:13:56.786Z",
+                            "updated_at": "2023-12-28T16:13:56.786Z",
+                            "deleted_at": null,
+                            "currency_code": "usd",
+                            "amount": 962,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRK4E4JKJ3TDZRP36K5Z0PT"
+                        },
+                        {
+                            "id": "ma_01HJRK7FYYE4HD7BHFF04BPNW2",
+                            "created_at": "2023-12-28T16:13:56.786Z",
+                            "updated_at": "2023-12-28T16:13:56.786Z",
+                            "deleted_at": null,
+                            "currency_code": "kes",
+                            "amount": 150000,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRK4E4JKJ3TDZRP36K5Z0PT"
+                        }
+                    ],
+                    "original_price": null,
+                    "calculated_price": null,
+                    "original_price_incl_tax": null,
+                    "calculated_price_incl_tax": null,
+                    "original_tax": null,
+                    "calculated_tax": null,
+                    "tax_rates": null
+                }
+            ]
+        },
+        {
+            "id": "prod_01HJJV12QP5W94R046GGMT0J53",
+            "title": "Extra-virgin Olive Oil 120ML",
+            "subtitle": null,
+            "status": "published",
+            "external_id": null,
+            "description": "- Addresses acne in people with dry skin.\n- Used to alleviate diaper rash in babies.\n- Promotes scalp health and prevents dandruff and dry flaky scalp.\n- Revitalizes dry brittle hair.\n- Protects hair when used for pre-shampoo and hot oil treatments.",
+            "handle": "extra-virgin-olive-oil-120ml",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://shethserver.s3.ap-southeast-2.amazonaws.com/EXTRA-VIRGIN-OLIVE-OIL-120ML-new-1703586855146.jpg",
+            "collection_id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+            "type_id": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2023-12-26T10:34:19.747Z",
+            "updated_at": "2023-12-26T10:34:58.837Z",
+            "deleted_at": null,
+            "metadata": null,
+            "profile_id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+            "collection": {
+                "id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+                "created_at": "2023-12-26T05:36:51.665Z",
+                "updated_at": "2023-12-26T05:36:51.665Z",
+                "deleted_at": null,
+                "title": "Anti-aging-oils",
+                "handle": "anti-aging-oils",
+                "metadata": {}
+            },
+            "images": [],
+            "options": [],
+            "profiles": [
+                {
+                    "id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+                    "created_at": "2023-12-24T13:04:47.600Z",
+                    "updated_at": "2023-12-24T13:04:47.600Z",
+                    "deleted_at": null,
+                    "name": "Default Shipping Profile",
+                    "type": "default",
+                    "metadata": null
+                }
+            ],
+            "tags": [],
+            "type": null,
+            "variants": [
+                {
+                    "id": "variant_01HJRHC315GQ6F6HPJX6WSMGFB",
+                    "created_at": "2023-12-28T15:41:01.338Z",
+                    "updated_at": "2023-12-28T15:55:25.420Z",
+                    "deleted_at": null,
+                    "title": "120ml",
+                    "product_id": "prod_01HJJV12QP5W94R046GGMT0J53",
+                    "sku": "",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": "",
+                    "variant_rank": 0,
+                    "inventory_quantity": 10,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": "120ml",
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": {
+                        "Volume": "120ml"
+                    },
+                    "options": [],
+                    "prices": [
+                        {
+                            "id": "ma_01HJRHFXXZ2SWDHGWATXQ67QY8",
+                            "created_at": "2023-12-28T15:55:25.420Z",
+                            "updated_at": "2023-12-28T15:55:25.420Z",
+                            "deleted_at": null,
+                            "currency_code": "kes",
+                            "amount": 75000,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRHC315GQ6F6HPJX6WSMGFB"
+                        },
+                        {
+                            "id": "ma_01HJRHRF0DFNTEK9WP85A488FX",
+                            "created_at": "2023-12-28T15:55:25.420Z",
+                            "updated_at": "2023-12-28T15:55:25.420Z",
+                            "deleted_at": null,
+                            "currency_code": "usd",
+                            "amount": 480,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRHC315GQ6F6HPJX6WSMGFB"
+                        }
+                    ],
+                    "original_price": null,
+                    "calculated_price": null,
+                    "original_price_incl_tax": null,
+                    "calculated_price_incl_tax": null,
+                    "original_tax": null,
+                    "calculated_tax": null,
+                    "tax_rates": null
+                }
+            ]
+        },
+        {
+            "id": "prod_01HJJAAM2RXFTFNQRXTVAPH7ZP",
+            "title": "Carrot Oil 120ML",
+            "subtitle": null,
+            "status": "published",
+            "external_id": null,
+            "description": "- An amazing natural sunscreen with SPF of up to 40.\n- Has great anti-aging properties, giving a glowing youthful skin.\n- Great day moisturizer for dry aging skin.",
+            "handle": "carrot-oil-120ml",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://shethserver.s3.ap-southeast-2.amazonaws.com/CARROT-OIL-120ML-new-1703586223475.jpg",
+            "collection_id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+            "type_id": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2023-12-26T05:42:26.607Z",
+            "updated_at": "2023-12-28T15:59:20.413Z",
+            "deleted_at": null,
+            "metadata": {},
+            "profile_id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+            "collection": {
+                "id": "pcol_01HJJA0CYK2B77NSVZWTJA7WYP",
+                "created_at": "2023-12-26T05:36:51.665Z",
+                "updated_at": "2023-12-26T05:36:51.665Z",
+                "deleted_at": null,
+                "title": "Anti-aging-oils",
+                "handle": "anti-aging-oils",
+                "metadata": {}
+            },
+            "images": [],
+            "options": [],
+            "profiles": [
+                {
+                    "id": "sp_01HJDYV5DHTN63FWSBGKPE18QA",
+                    "created_at": "2023-12-24T13:04:47.600Z",
+                    "updated_at": "2023-12-24T13:04:47.600Z",
+                    "deleted_at": null,
+                    "name": "Default Shipping Profile",
+                    "type": "default",
+                    "metadata": null
+                }
+            ],
+            "tags": [
+                {
+                    "id": "ptag_01HJRJDMB7QHVXKFT7AS9YB36V",
+                    "created_at": "2023-12-28T15:59:20.413Z",
+                    "updated_at": "2023-12-28T15:59:20.413Z",
+                    "deleted_at": null,
+                    "value": "120ml",
+                    "metadata": null
+                },
+                {
+                    "id": "ptag_01HJRJFQ2K1E2NSZPTEZXTCJD6",
+                    "created_at": "2023-12-28T16:00:28.741Z",
+                    "updated_at": "2023-12-28T16:00:28.741Z",
+                    "deleted_at": null,
+                    "value": "sunscreen",
+                    "metadata": null
+                },
+                {
+                    "id": "ptag_01HJRJFQ2MFRF12QJ2F66TKP1R",
+                    "created_at": "2023-12-28T16:00:28.741Z",
+                    "updated_at": "2023-12-28T16:00:28.741Z",
+                    "deleted_at": null,
+                    "value": "moisturizer",
+                    "metadata": null
+                },
+                {
+                    "id": "ptag_01HJRJFQ2MFSJYM9K7QVPKW7WR",
+                    "created_at": "2023-12-28T16:00:28.741Z",
+                    "updated_at": "2023-12-28T16:00:28.741Z",
+                    "deleted_at": null,
+                    "value": "anti-aging",
+                    "metadata": null
+                }
+            ],
+            "type": null,
+            "variants": [
+                {
+                    "id": "variant_01HJRJ0DA2X1G2AMN3M3BWB0M9",
+                    "created_at": "2023-12-28T15:52:07.220Z",
+                    "updated_at": "2023-12-28T16:01:25.417Z",
+                    "deleted_at": null,
+                    "title": "Volume",
+                    "product_id": "prod_01HJJAAM2RXFTFNQRXTVAPH7ZP",
+                    "sku": null,
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "variant_rank": 0,
+                    "inventory_quantity": 10,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": "120ml",
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": {},
+                    "options": [],
+                    "prices": [
+                        {
+                            "id": "ma_01HJRJ25XAGGYS3QWXAM6DMTVP",
+                            "created_at": "2023-12-28T16:01:25.417Z",
+                            "updated_at": "2023-12-28T16:01:25.417Z",
+                            "deleted_at": null,
+                            "currency_code": "usd",
+                            "amount": 961,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRJ0DA2X1G2AMN3M3BWB0M9"
+                        },
+                        {
+                            "id": "ma_01HJRJ25XAAVZZ95VQTXH159R6",
+                            "created_at": "2023-12-28T16:01:25.417Z",
+                            "updated_at": "2023-12-28T16:01:25.417Z",
+                            "deleted_at": null,
+                            "currency_code": "kes",
+                            "amount": 150000,
+                            "min_quantity": null,
+                            "max_quantity": null,
+                            "price_list_id": null,
+                            "region_id": null,
+                            "price_list": null,
+                            "variant_id": "variant_01HJRJ0DA2X1G2AMN3M3BWB0M9"
+                        }
+                    ],
+                    "original_price": null,
+                    "calculated_price": null,
+                    "original_price_incl_tax": null,
+                    "calculated_price_incl_tax": null,
+                    "original_tax": null,
+                    "calculated_tax": null,
+                    "tax_rates": null
+                }
+            ]
+        }
+    ],
+    "count": 3,
+    "offset": 0,
+    "limit": 100
+}
