@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(17,17,17);
+    color: white;
+}
+
+
+
+.card{
+background-color:  rgb(22, 24, 27);
+height: 510px;
+margin-top: 50px;
+padding-top: 15px;
+padding-left: 22px;
+width: 350px;
+margin-left: 20px;
+border-radius: 10px;
+color: white;
+
+}
+
+.container{
+    >p{
+        padding-left: 30px;
+        color:white;
+    }
+}
